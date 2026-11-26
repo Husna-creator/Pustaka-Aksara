@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Aksara",
+  "description": "Perpustakaan digital modern bergaya Warm Editorial & Neo-Bento Grid dengan katalog OPAC, e-reader terpadu, pemutar audiobook, sitasi otomatis, rak pribadi, dan asisten AI Pustakawan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
